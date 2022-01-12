@@ -1,3 +1,6 @@
 # Eth Todo List
 
-My todo list on EVM.
+Une todo list sur la blockchain ethereum.
+Ceci permet juste de connecter son portefeuille au dapp 
+creer son task sur la blockchain
+
